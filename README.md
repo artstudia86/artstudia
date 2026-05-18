@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Логотип / аватар -->
-<img src="https://avatars.githubusercontent.com/u/artstudia86" width="100" height="100" style="border-radius:50%" alt="artstudia86"/>
+<img src="https://github.com/artstudia86.png" width="100" style="border-radius:50%" alt="artstudia86"/>
 
 # artstudia86
 
@@ -76,6 +76,6 @@ Web interface for generating images from text prompts.
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=artstudia86&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3" alt="GitHub Stats" width="420"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artstudia86&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f98a3" alt="Top Languages" width="280"/>
+<img src="https://github-readme-stats.shion.dev/api?username=artstudia86&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3" alt="GitHub Stats" width="420"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=artstudia86&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f98a3" alt="Top Languages" width="280"/>
 </div>
